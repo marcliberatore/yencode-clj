@@ -21,10 +21,8 @@ correct character set (ISO-8859-1).
 
 ## Installation
 
-There is no pre-built library yet, as this is a work in progress. Use
-Leiningen [checkouts] for now.
-
-[checkouts]:https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md#checkout-dependencies
+There is no pre-built library yet, as this is a work in progress.
+`lein install` it locally for now.
 
 ## License
 
